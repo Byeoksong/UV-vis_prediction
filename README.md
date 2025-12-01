@@ -108,4 +108,4 @@ This project is licensed under the MIT License.
 
 If you use this code in your research, please cite our paper:
 
-Byeoksong, L., et al. (2025). Topological Machine Learning Unveils Hidden Reaction Pathways in Nanocrystal Synthesis. *Journal of the American Chemical Society*. https://doi.org/10.1021/jacs.5c15371
+B. Lee, et al. (2025). Topological Machine Learning Unveils Hidden Reaction Pathways in Nanocrystal Synthesis. *Journal of the American Chemical Society*. https://doi.org/10.1021/jacs.5c15371

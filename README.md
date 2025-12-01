@@ -1,6 +1,6 @@
 # Transformer-based UV-vis Spectra Prediction Model
 
-This repository contains the code for a transformer-based model that predicts UV-vis spectra from the synthesis conditions of nanocrystals. This work is part of a study currently under preparation.
+This repository contains the code for a transformer-based model that predicts UV-vis spectra from the synthesis conditions of nanocrystals. This work has been published in the *Journal of the American Chemical Society*.
 
 ## Project Structure
 
@@ -106,4 +106,6 @@ This project is licensed under the MIT License.
 
 ## Citation
 
-This work is currently under preparation. Citation information will be updated upon publication.
+If you use this code in your research, please cite our paper:
+
+Byeoksong, L., et al. (2025). Topological Machine Learning Unveils Hidden Reaction Pathways in Nanocrystal Synthesis. *Journal of the American Chemical Society*. https://doi.org/10.1021/jacs.5c15371
